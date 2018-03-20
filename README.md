@@ -1,4 +1,6 @@
 # TOUCAN_VR_data
+[![DOI](https://zenodo.org/badge/125753852.svg)](https://zenodo.org/badge/latestdoi/125753852)
+
 
 The repository contains the data and post-processing code employed to generate the experimental results presented in [1], employing the TOUCAN-VR app [2].
 
