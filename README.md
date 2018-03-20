@@ -18,13 +18,13 @@ Anne-Marie PINNA-DERY
 
 References:
 
-[1] S. Dambra, G. Samela, L. Sassatelli, R. Pighetti, R. Aparicio-Pardo, A. Pinna-Déry "Film Editing: New Levers to Improve VR Streaming", ACM Multimedia Systems Conference (MMSys), Amsterdam, The Netherlands, June 2018.
+[1] S. Dambra, G. Samela, L. Sassatelli, R. Pighetti, R. Aparicio-Pardo, A. Pinna-Déry "Film Editing: New Levers to Improve VR Streaming", ACM Multimedia Systems Conference (MMSys), Amsterdam, The Netherlands, June 2018.  
 [2] TOUCAN-VR https://github.com/UCA4SVR/TOUCAN-VR
 
 ## Usage
 Download and unzip the zipped folder. The results have been processed with Matlab R2017a and python3.  
 
-Folder 'analysis/DataAnalysis' contains the matlab script to generate the results presented in article [1] above. To do so, run 'HM_BW_Boxplot_AugExp.m' and 'Subjective_measures_boxplot_OctExp.m' ('HM_BW_Boxplot_OctExp.m' is also available though not detailed in [1]).  
+Folder 'analysis/DataAnalysis' contains the matlab scripts to generate the results presented in article [1] above. To do so, run 'HM_BW_Boxplot_AugExp.m' and 'Subjective_measures_boxplot_OctExp.m' ('HM_BW_Boxplot_OctExp.m' is also available though not detailed in [1]).  
 
 Folder 'data_for_exp' contains information about the videos and parameters used for the experiments.  
 
